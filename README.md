@@ -1,5 +1,10 @@
-# Time Series Forecasting Platform: XGBoost & LSTM with Streamlit + Snowflake  
-**Plataforma de Predicción de Series Temporales con XGBoost y LSTM desplegada en Streamlit + Snowflake**
+# Plataforma de Predicción de Series Temporales con XGBoost y LSTM desplegada en Streamlit + Snowflake
+
+[![Powered by Kedro](https://img.shields.io/badge/powered_by-kedro-ffc900?logo=kedro)](https://kedro.org)
+[![Powered by MLflow](https://img.shields.io/badge/MLflow-tracking-0172b2?logo=mlflow)](https://mlflow.org/)
+[![Powered by TensorFlow](https://img.shields.io/badge/Built%20with-TensorFlow-orange?logo=tensorflow)](https://www.tensorflow.org/)
+[![Powered by Docker](https://img.shields.io/badge/Containerized%20with-Docker-2496ed?logo=docker)](https://www.docker.com/)
+
 
 Este repositorio contiene la arquitectura general del proyecto, que incluye el análisis exploratorio de datos (EDA), análisis topológico (TDA), despliegue, y los modelos predictivos entrenados con XGBoost y LSTM.
 
